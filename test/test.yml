@@ -2,7 +2,7 @@
 modules: pz_calibrate
 
 stages:
-    - name: pz_calibrateStage1
+    - name: PZCalibrate
       nprocess: 1
 
 output_dir: ./outputs
